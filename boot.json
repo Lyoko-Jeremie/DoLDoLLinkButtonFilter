@@ -1,0 +1,39 @@
+{
+  "name": "DoLLinkButtonFilter",
+  "version": "1.0.0",
+  "styleFileList": [
+  ],
+  "scriptFileList_earlyload": [
+  ],
+  "scriptFileList_inject_early": [
+    "dist/DoLLinkButtonFilter.js"
+  ],
+  "scriptFileList_preload": [
+  ],
+  "scriptFileList": [
+    "dist/js/installDoLLinkButtonFilter.js"
+  ],
+  "tweeFileList": [
+  ],
+  "imgFileList": [
+  ],
+  "imgFileReplaceList": [
+  ],
+  "additionFile": [
+    "README.md"
+  ],
+  "additionBinaryFile": [
+  ],
+  "addonPlugin": [
+  ],
+  "dependenceInfo": [
+    {
+      "modName": "ModLoader",
+      "version": "^2.17.1"
+    },
+    {
+      "modName": "GameVersion",
+      "version": ">0.5 && <0.6"
+    }
+  ]
+}
